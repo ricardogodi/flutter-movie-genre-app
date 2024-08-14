@@ -29,7 +29,9 @@ The Flutter Movie Genre App is a mobile application that categorizes movies by g
   - `movie_genres_screen.dart`: Main screen that displays movies by genre.
   - `movie_info_screen.dart`: Displays detailed information about a movie.
   - `movie_poster_screen.dart`: Shows a full-screen view of a movie poster.
-  - Sample images for movie thumbnails are included.
+  - Images used inside 'images' folder.
+  - Sample images of app usage.
+
 
 ## App Screens
 - **Movie Genres Screen:** The primary screen with movie genre categories.
