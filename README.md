@@ -9,11 +9,16 @@ The Flutter Movie Genre App is a mobile application that categorizes movies by g
 - Interactive movie listings respond to taps and long presses, bringing up detailed views or web resources related to the movie.
 
 ## Usage
+
+*Note: The full Android Studio project is not included due to size constraints. You must use the provided files and import the code into your own Flutter project to run the app.*
+
 - **Navigating the App:** Start by exploring the genre-specific lists on the main screen. Scroll horizontally to see more movies in each category.
 - **Interacting with Movies:**
   - **Short Tap:** Opens a new screen displaying the movie's poster in full view. Tapping on the poster navigates to the movie's IMDb page.
   - **Long Press:** Displays a pop-up menu with options to view detailed movie information, visit the movie's Wikipedia page, or view its IMDb page.
 - **Returning to Previous Screens:** Use the back button in the toolbar to navigate back to the main list from any detailed view.
+
+
 
 ## Included Files
 - **Dart Classes:**
@@ -46,4 +51,4 @@ The Flutter Movie Genre App is a mobile application that categorizes movies by g
 - The app features a clean, intuitive interface with smooth transitions between screens.
 - All screens contain a toolbar for easy navigation and a consistent look-and-feel across the app.
 
-*Note: The full Android Studio project is not included due to size constraints. You must use the provided files and import the code into your own Flutter project to run the app.*
+
